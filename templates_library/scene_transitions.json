@@ -1,0 +1,58 @@
+{
+  "scene_transitions": [
+    {
+      "name": "CUT TO",
+      "category": "beginner",
+      "description": "Direct, immediate transition between scenes. The most common transition in screenwriting.",
+      "when_to_use": "Use for straightforward scene changes, action sequences, or when you want abrupt shifts in location or time.",
+      "formatting": "Right-aligned, all caps, followed by colon",
+      "example": "INT. COFFEE SHOP - DAY\n\nJohn sips his espresso, staring out the window.\n\n                                                    CUT TO:\n\nEXT. CITY STREET - DAY\n\nJohn walks briskly down the sidewalk.",
+      "psychological_effect": "Creates sense of continuity and forward momentum. Viewers expect immediate connection between scenes."
+    },
+    {
+      "name": "DISSOLVE TO",
+      "category": "intermediate",
+      "description": "Gradual transition where one image fades out while another fades in, suggesting passage of time or emotional connection.",
+      "when_to_use": "Use for time passage, dream sequences, flashbacks, or to create emotional resonance between scenes.",
+      "formatting": "Right-aligned, all caps, followed by colon",
+      "example": "INT. HOSPITAL ROOM - NIGHT\n\nSarah holds her father's hand as he sleeps.\n\n                                              DISSOLVE TO:\n\nINT. SAME - MORNING\n\nSunlight streams through the window. The bed is empty.",
+      "psychological_effect": "Softens transitions, implies time passing or emotional transformation. More contemplative than CUT TO."
+    },
+    {
+      "name": "MATCH CUT",
+      "category": "advanced",
+      "description": "Transition using visual similarity between ending of one scene and beginning of next. Highly cinematic.",
+      "when_to_use": "Use to draw parallels, show contrast, create metaphors, or make thematic connections between scenes.",
+      "formatting": "Often just 'CUT TO:' but relies on visual description to show the match",
+      "example": "INT. DETECTIVE'S OFFICE - DAY\n\nDetective closes a case file folder. The red cover fills the frame.\n\n                                                    CUT TO:\n\nEXT. CRIME SCENE - NIGHT\n\nA red car door slams shut, filling the frame.\n\n[Note: Both scenes feature red object filling frame]",
+      "psychological_effect": "Creates visual poetry, makes viewers connect ideas, powerful for themes and symbolism."
+    },
+    {
+      "name": "FADE OUT / FADE IN",
+      "category": "beginner",
+      "description": "Scene gradually fades to black (FADE OUT) then new scene emerges from black (FADE IN). Signals major shift.",
+      "when_to_use": "End of acts, major time jumps, to signal 'chapter breaks' in story. FADE OUT is also used at script's end.",
+      "formatting": "Right-aligned for FADE OUT, left-aligned for FADE IN",
+      "example": "INT. GRADUATION CEREMONY - DAY\n\nMaria tosses her cap in the air with her classmates.\n\n                                                  FADE OUT.\n\nFADE IN:\n\nINT. CORPORATE OFFICE - DAY - FIVE YEARS LATER\n\nMaria, now in a business suit, leads a meeting.",
+      "psychological_effect": "Strongest sense of conclusion and new beginning. Gives viewers 'breathing room' between major story sections."
+    },
+    {
+      "name": "SMASH CUT",
+      "category": "intermediate",
+      "description": "Jarring, abrupt transition for shock value or emphasis. Often from calm to chaos or vice versa.",
+      "when_to_use": "Use for dramatic reveals, comedy timing, wake-up scenes, or sudden reversals. Sparingly for maximum impact.",
+      "formatting": "Right-aligned, all caps, followed by colon. Sometimes written as 'SMASH CUT TO:'",
+      "example": "INT. BEDROOM - NIGHT\n\nTom lies peacefully in bed, smiling in his sleep.\n\n                                              SMASH CUT TO:\n\nINT. BATTLEFIELD - DAY\n\nEXPLOSIONS everywhere. Tom runs for his life, screaming.",
+      "psychological_effect": "Jolts the audience, creates contrast, emphasizes sudden change. Comedic or dramatic depending on context."
+    },
+    {
+      "name": "JUMP CUT",
+      "category": "advanced",
+      "description": "Abrupt cut within same scene, showing time passing or repetitive action. Modern, stylized technique.",
+      "when_to_use": "Montages within single location, showing passage of time, repetitive actions, or frenetic pacing.",
+      "formatting": "Usually just described in action lines, not explicitly called out",
+      "example": "INT. ARTIST'S STUDIO - DAY\n\nEmma sketches a portrait.\n\nJUMP CUT:\n\nThe portrait is more detailed. Light has shifted.\n\nJUMP CUT:\n\nEmma steps back, the portrait nearly complete. Dusk outside.\n\n[Shows time compression within same scene]",
+      "psychological_effect": "Disorienting yet rhythmic. Shows progression, builds energy, or creates comic effect."
+    }
+  ]
+}

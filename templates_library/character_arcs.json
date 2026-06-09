@@ -1,0 +1,171 @@
+{
+  "character_arcs": [
+    {
+      "name": "The Hero's Journey (Positive Change Arc)",
+      "category": "beginner",
+      "description": "Classic transformation arc where protagonist grows from ordinary to extraordinary through trials. Based on Joseph Campbell's monomyth.",
+      "structure": {
+        "act1": {
+          "ordinary_world": "Character in normal life, showing flaws or limitations",
+          "call_to_adventure": "Event disrupts normal life, presents challenge",
+          "refusal_of_call": "Character hesitates due to fear or comfort",
+          "meeting_mentor": "Wise figure provides guidance or tools"
+        },
+        "act2": {
+          "crossing_threshold": "Character commits to journey, enters new world",
+          "tests_allies_enemies": "Faces challenges, makes friends and foes",
+          "approach_cave": "Prepares for major challenge",
+          "ordeal": "Greatest fear faced, symbolic death and rebirth",
+          "reward": "Gains object, knowledge, or inner strength"
+        },
+        "act3": {
+          "road_back": "Returns to ordinary world with new wisdom",
+          "resurrection": "Final test proves transformation is real",
+          "return_with_elixir": "Brings benefit to community, shows growth"
+        }
+      },
+      "example": "Luke Skywalker (Star Wars): Farm boy → refuses adventure → meets Obi-Wan → crosses to larger galaxy → faces tests → confronts fear of inadequacy → grows in Force → returns as Jedi → defeats Empire → brings hope to galaxy",
+      "when_to_use": "Epic adventures, coming-of-age stories, fantasy, hero narratives",
+      "psychological_journey": "Overcomes self-doubt and fear to discover inner strength and purpose",
+      "theme": "Transformation through adversity, discovering true self"
+    },
+    {
+      "name": "Redemption Arc (Negative to Positive)",
+      "category": "intermediate",
+      "description": "Character starts morally flawed or villainous and transforms into better person through sacrifice and choice.",
+      "structure": {
+        "act1": {
+          "established_flaws": "Character clearly selfish, cruel, or morally compromised",
+          "comfortable_in_darkness": "Benefits from or accepts their negative traits",
+          "glimpse_of_light": "Small moment hints at capacity for good"
+        },
+        "act2": {
+          "forced_confrontation": "Consequences of actions become undeniable",
+          "moral_conflict": "Begins questioning their choices and worldview",
+          "small_good_acts": "Takes tentative steps toward change",
+          "temptation_to_return": "Old ways offer easy escape from change",
+          "critical_choice": "Must choose between old self and new path"
+        },
+        "act3": {
+          "sacrifice": "Proves change through selfless act (often at great cost)",
+          "atonement": "Makes amends for past wrongs",
+          "new_identity": "Embraces reformed self, rejected by neither world"
+        }
+      },
+      "example": "Ebenezer Scrooge (A Christmas Carol): Greedy miser → visited by ghosts → sees consequences of greed → faces his lonely future → chooses generosity → transforms into kind benefactor → redeems himself",
+      "when_to_use": "Anti-hero stories, villain redemptions, moral tales, character-driven dramas",
+      "psychological_journey": "Confronts guilt, overcomes pride, chooses empathy over self-interest",
+      "theme": "It's never too late to change, redemption through choice and sacrifice"
+    },
+    {
+      "name": "Fall Arc (Positive to Negative)",
+      "category": "advanced",
+      "description": "Character descends from morally good to corrupted, often through ambition, fear, or temptation. Tragedy arc.",
+      "structure": {
+        "act1": {
+          "established_virtue": "Character is good, admirable, has strong principles",
+          "fatal_flaw": "Subtle weakness: ambition, fear, pride, naivety",
+          "initial_temptation": "Opportunity to compromise values for gain"
+        },
+        "act2": {
+          "first_compromise": "Small moral violation, justified or rationalized",
+          "slippery_slope": "Each choice makes next compromise easier",
+          "losing_relationships": "Drives away people who could save them",
+          "point_of_no_return": "Major act locks them into dark path",
+          "embracing_darkness": "No longer rationalizes, accepts corrupted self"
+        },
+        "act3": {
+          "hollow_victory": "Achieves goal but loses humanity/soul",
+          "final_confrontation": "Faces consequence of choices",
+          "tragic_end": "Destroyed by what they became (death, isolation, or madness)"
+        }
+      },
+      "example": "Walter White (Breaking Bad): Good teacher → cancer diagnosis → cooks meth 'for family' → enjoys power → hurts innocents → loses family → dies alone, transformed into monster",
+      "when_to_use": "Tragedies, cautionary tales, complex villain origins, dark dramas",
+      "psychological_journey": "Pride blinds to truth, ambition corrupts values, fear drives to cruelty",
+      "theme": "Corruption through power, consequences of moral compromise, tragedy of wasted potential"
+    },
+    {
+      "name": "Flat Arc (Character Changes World)",
+      "category": "intermediate",
+      "description": "Protagonist doesn't change internally but transforms world around them through strength of conviction.",
+      "structure": {
+        "act1": {
+          "established_truth": "Character has strong belief/value system",
+          "world_in_lie": "World around them operates on false belief",
+          "tested_belief": "Pressure to abandon their truth"
+        },
+        "act2": {
+          "holding_ground": "Refuses to compromise despite opposition",
+          "influencing_others": "Actions inspire others to question status quo",
+          "world_pushback": "System fights to maintain lie",
+          "moment_of_doubt": "Briefly questions if they're wrong"
+        },
+        "act3": {
+          "reaffirming_truth": "Doubles down on beliefs with clarity",
+          "world_transforms": "Others adopt the truth, system changes",
+          "new_equilibrium": "World now reflects protagonist's values"
+        }
+      },
+      "example": "Atticus Finch (To Kill a Mockingbird): Holds moral integrity → faces racist town → defends innocent man → doesn't waver despite threats → influences children and some townspeople → shifts community perspective on justice",
+      "when_to_use": "Stories about social change, moral tales, inspirational narratives, revolutionary figures",
+      "psychological_journey": "Maintains integrity under pressure, inspires others through example",
+      "theme": "One person can change the world, truth prevails over comfortable lies"
+    },
+    {
+      "name": "Disillusionment Arc (Loss of Innocence)",
+      "category": "intermediate",
+      "description": "Character begins naive or idealistic and becomes cynical or realistic after harsh truths revealed.",
+      "structure": {
+        "act1": {
+          "innocent_worldview": "Character believes in goodness, fairness, simple morality",
+          "sheltered_existence": "Hasn't experienced harsh realities",
+          "first_crack": "Small event challenges worldview"
+        },
+        "act2": {
+          "harsh_truths": "Repeatedly confronted with moral ambiguity, cruelty, injustice",
+          "internal_conflict": "Struggles to reconcile beliefs with reality",
+          "attempted_denial": "Tries to maintain innocence",
+          "breaking_point": "Event shatters remaining illusions"
+        },
+        "act3": {
+          "acceptance": "Embraces darker, more complex understanding",
+          "new_wisdom": "Gains depth, becomes more capable but less hopeful",
+          "bittersweet_resolution": "Survives but fundamentally changed"
+        }
+      },
+      "example": "Holden Caulfield (Catcher in the Rye): Idealistic teenager → sees adult hypocrisy → tries to protect innocence → realizes impossibility → accepts complexity of growing up → loses innocence but gains understanding",
+      "when_to_use": "Coming-of-age stories, war narratives, loss of faith stories, dark revelations",
+      "psychological_journey": "Innocence shattered, idealism tempered by reality, painful maturation",
+      "theme": "Growing up means seeing darkness, loss of innocence is necessary but painful"
+    },
+    {
+      "name": "Growth Arc (Overcoming Internal Flaw)",
+      "category": "beginner",
+      "description": "Character has specific internal weakness that prevents happiness, overcomes it through story events.",
+      "structure": {
+        "act1": {
+          "visible_flaw": "Clear character weakness: fear, selfishness, distrust, etc.",
+          "consequences_shown": "Flaw causes problems in life",
+          "wants_vs_needs": "Pursues external goal but needs internal change"
+        },
+        "act2": {
+          "flaw_tested": "Situations expose and challenge the weakness",
+          "failed_attempts": "Tries to succeed without changing, fails",
+          "recognition": "Begins to see their flaw is the problem",
+          "resistance": "Fears change more than continuing pain"
+        },
+        "act3": {
+          "choice_moment": "Must choose between flaw and growth",
+          "overcomes_flaw": "Acts against their weakness",
+          "achieves_need": "Internal change brings true fulfillment",
+          "new_equilibrium": "External goal achieved or revealed as unimportant"
+        }
+      },
+      "example": "Mr. Darcy (Pride and Prejudice): Proud and aloof → falls for Elizabeth → his pride offends her → faces rejection → recognizes his flaw → humbles himself → overcomes pride → wins love through genuine change",
+      "when_to_use": "Romance, character studies, personal dramas, self-discovery stories",
+      "psychological_journey": "Acknowledges personal flaw, struggles with ego, chooses growth over comfort",
+      "theme": "True happiness requires internal change, we are our own obstacles"
+    }
+  ]
+}

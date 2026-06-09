@@ -1,0 +1,12 @@
+# Coffee with Cinema Revamp
+
+- [ ] Investigate generation timeout/error in [app.py](file:///c:/Users/User/Documents/coffee-with-cinema/app.py)
+- [ ] Implement AI finetuning based on scenarios
+  - [ ] Analyze Tone
+  - [ ] Generate Characters (appearance, roles, attire, costumes)
+  - [ ] Create Character Arcs
+  - [ ] Generate complete screenplays (technical formatting)
+  - [ ] Generate sound design plans
+- [ ] Revamp UI/UX (Netflix style: exceedingly good, premium, rich aesthetics, glassmorphism/dark mode)
+- [ ] Ensure session-based user authentication and preferences persistence
+- [ ] Add multiple export formats
